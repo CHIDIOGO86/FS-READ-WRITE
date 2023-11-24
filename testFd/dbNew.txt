@@ -1,0 +1,7 @@
+{
+    "vip": "4",
+"vipName": "Uju",
+"vipNumber": "5",
+"class": "four",
+"age": "7 years",    
+}

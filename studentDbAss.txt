@@ -1,0 +1,7 @@
+{
+     "SID": "4",
+     "studentName": "Uju",
+     "studentNumber": "5",
+     "class": "four",
+    "age": "7 years",/     "USSD": "False"
+    }
